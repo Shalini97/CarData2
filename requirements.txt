@@ -1,3 +1,4 @@
+ython==3.7.10
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==21.2.0
@@ -76,3 +77,4 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.1
 gunicorn
+p
